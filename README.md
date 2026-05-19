@@ -1,6 +1,6 @@
 #  Entorno de Desarrollo Local con PHP y Laragon
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](git clone https://github.com/MSebastianGutierrez/tp2-entornoLocal.git C:\laragon\www\tp2)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/MSebastianGutierrez/tp2-entornoLocal)
 [![PHP Version](https://img.shields.io/badge/PHP-8.3.30-777BB4?logo=php&logoColor=white)](https://php.net)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
@@ -70,7 +70,7 @@ Clonar el repositorio
 Abre tu terminal y clona este proyecto dentro de la carpeta www de Laragon.
 
 ``` bash
-git clone https://github.com/[tu-usuario]/tp2-entorno.git C:\laragon\www\tp2
+git clone https://github.com/MSebastianGutierrez/tp2-entornoLocal C:\laragon\www\tp2
 ```
 
 ## Configurar la Base de Datos
