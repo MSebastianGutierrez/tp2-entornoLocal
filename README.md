@@ -5,15 +5,15 @@
 
 ##  Tabla de Contenidos
 
-- [Descripción del Proyecto](#-descripción-del-proyecto)
-- [Tecnologías Utilizadas](#-tecnologías-utilizadas)
-- [Estructura del Proyecto](#-estructura-del-proyecto)
-- [Instalación y Configuración](#-instalación-y-configuración)
-- [Cómo Usar el Proyecto](#-cómo-usar-el-proyecto)
-- [Capturas de Pantalla](#-capturas-de-pantalla)
-- [Estado del Proyecto](#-estado-del-proyecto)
+- [Descripción del Proyecto](#descripción-del-proyecto)
+- [Tecnologías Utilizadas](#tecnologías-utilizadas)
+- [Estructura del Proyecto](#estructura-del-proyecto)
+- [Instalación y Configuración](#instalación-y-configuración)
+- [Cómo Usar el Proyecto](#cómo-usar-el-proyecto)
+- [Capturas de Pantalla](#capturas-de-pantalla)
+- [Estado del Proyecto](#estado-del-proyecto)
 
-##  Descripción del Proyecto
+## Descripción del Proyecto
 
 Este proyecto es el resultado del Trabajo Práctico N°2 de la capacitación en **Desarrollo de Software**. El objetivo principal fue instalar y configurar un entorno de desarrollo web local profesional utilizando **Laragon**, y demostrar su correcto funcionamiento mediante una aplicación web simple con un sistema de autenticación de usuarios (login) y conexión a una base de datos **MySQL**.
 
@@ -21,7 +21,7 @@ La aplicación permite a los usuarios registrarse, iniciar sesión y acceder a u
 
 **Motivación:** Aprender a configurar un entorno de desarrollo local (LAMP/WAMP) de forma profesional, entender la interacción entre un servidor web (Apache), un gestor de base de datos (MySQL) y el lenguaje PHP, sentando las bases para el desarrollo de aplicaciones web más complejas en el futuro.
 
-##  Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 *   **Servidor Local:** [Laragon](https://laragon.org/) (Apache/2.4.66, MySQL, PHP 8.3.30)
 *   **Lenguaje:** [PHP 8.3.30](https://www.php.net/)
@@ -30,7 +30,7 @@ La aplicación permite a los usuarios registrarse, iniciar sesión y acceder a u
 *   **Frontend:** HTML5, CSS3
 *   **Control de Versiones:** [Git](https://git-scm.com/) & [GitHub](https://github.com/)
 
-##  Estructura del Proyecto
+## Estructura del Proyecto
 
 El proyecto sigue una arquitectura **MVC (Modelo-Vista-Controlador)** básica para una clara separación de responsabilidades, lo que facilita su mantenimiento y escalabilidad.
 
@@ -53,7 +53,7 @@ tp2/
 └── README.md                  # Documentación del proyecto
 ```
 
-##  Instalación y Configuración
+## Instalación y Configuración
 
 Sigue estos pasos para tener una copia del proyecto funcionando en tu máquina local.
 
@@ -109,7 +109,7 @@ Contraseña: 12345
 
 Al iniciar sesión correctamente, serás redirigido al dashboard, donde podrás ver información detallada del servidor y del entorno.
 
-##  Capturas de Pantalla
+## Capturas de Pantalla
 
 | Pantalla login | Pantalla dashboard | 
 |--------|----------|
