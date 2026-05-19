@@ -2,7 +2,6 @@
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/MSebastianGutierrez/tp2-entornoLocal)
 [![PHP Version](https://img.shields.io/badge/PHP-8.3.30-777BB4?logo=php&logoColor=white)](https://php.net)
-[![](https://img.shields.io/badge/license-MIT-green.svg)]()
 
 ##  Tabla de Contenidos
 
