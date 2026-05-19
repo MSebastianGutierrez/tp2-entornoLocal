@@ -117,4 +117,4 @@ Al iniciar sesión correctamente, serás redirigido al dashboard, donde podrás 
 
 ## Estado del Proyecto
 
-El proyecto cumple con todos los requisitos de la consigna. La instalación del entorno es correcta, los servicios funcionan y la aplicación web es accesible localmente, demostrando un entorno de desarrollo profesional y listo para su uso.
+El proyecto intenta cumplir con todos los requisitos de la consigna. La instalación del entorno es correcta, los servicios funcionan y la aplicación web es accesible localmente, demostrando un entorno de desarrollo profesional y listo para su uso.
